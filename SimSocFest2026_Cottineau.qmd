@@ -33,24 +33,21 @@ css: pres_files/style.css
 
 - Segregation itself produces social inequalities through contextual eﬀects across life domains [@tammaru2021spatial]
 
-
 ## Beyond Static Segregation
 
 Segregation and contextual eﬀects differ throughout the day, as people move between locations in a city [@le2017social]
 
 > Eﬀects of spatial segregation on social outcomes need to be studied temporally (“around the clock”).
 
-
 ## Review of segregation ABMs
 
 Systematic review of 55 research articles [@paulinaslr]
 
-> "Ultimately, a model’s design heavily influences its analytical capacity: abstract preference models excel at demonstrating how individual homophily leads to population sorting, whereas empirical economic models provide the necessary architecture to evaluate why structural markets enforce these divides and how targeted policies might successfully intervene." 
+> "Ultimately, a model’s design heavily influences its analytical capacity: abstract preference models excel at demonstrating how individual homophily leads to population sorting, whereas empirical economic models provide the necessary architecture to evaluate why structural markets enforce these divides and how targeted policies might successfully intervene."
 
 ## Beyond Static Segregation
 
-- Objective: To understand the eﬀects of spatio-temporal social segregation on the diﬀusion of dietary behaviours. 
-
+- Objective: To understand the eﬀects of spatio-temporal social segregation on the diﬀusion of dietary behaviours.
 
 - Problem: data can become unsufficient. [@cottineau2025agent]
 
@@ -346,10 +343,10 @@ For more: [@cottineau2025agent]
 
 More generally, initial conditions and spatial attributes of agents matter in geosimulation.
 
-We need: 
+We need:
 
 - (spatialized) & (intersectional) **synthetic populations**
-- **synthetic cities** 
+- **synthetic cities**
 - frameworks to assess the effect of spatial attributes on model results (**spatial sensitivity**)
 
 ## Synthetic populations
@@ -360,8 +357,7 @@ We need:
 
 [@roxburg2025outlining]
 
-## Synthetic cities  {.scrollable}
-
+## Synthetic cities {.scrollable}
 
 ::::: {layout-ncol="2"}
 ::: {}
@@ -372,19 +368,16 @@ We need:
 ![](figures/HyejiGen.png)
 :::
 :::::
+
 [@hyejimaster]
 
-## Space and sensitivity  {.scrollable}
+## Space and sensitivity {.scrollable}
 
-![](figures/spacematters1.png)
-[@raimbault2019space]
+![](figures/spacematters1.png) [@raimbault2019space]
 
+## Space and sensitivity {.scrollable}
 
-## Space and sensitivity  {.scrollable}
-
-![](figures/spacematters2.png)
-[@raimbault2019space]
-
+![](figures/spacematters2.png) [@raimbault2019space]
 
 ## Space and sensitivity
 
@@ -392,18 +385,13 @@ We need:
 
 [@raimbault2019space]
 
-
 ## Space and sensitivity {.scrollable .smaller style="font-size: 40px"}
-
-
 
 ::::: {layout-ncol="2"}
 ::: {}
-![](figures/spacematters5.png){width=40%}
-
+![](figures/spacematters5.png){width="40%"}
 
 Relative distance of phase diagrams as function of generator parameters α (preferential attachment) and β (diffusion).
-
 :::
 
 ::: {}
@@ -412,6 +400,7 @@ Relative distance of phase diagrams as function of generator parameters α (pref
 [@raimbault2019space]
 :::
 :::::
+
 ## References {.scrollable .smaller style="font-size: 40px"}
 
 ::: {#refs}
@@ -425,11 +414,10 @@ Relative distance of phase diagrams as function of generator parameters α (pref
 :::
 
 ::: {}
-[![](figures/mobiliscope.png){fig-align="left" width="500"}](https://mobiliscope.cnrs.fr/en) 
+[![](figures/mobiliscope.png){fig-align="left" width="500"}](https://mobiliscope.cnrs.fr/en)
 :::
 :::::
 
 ## Find the presentation
 
-[![](figures/presentation.png){fig-align="centre" width="500"}](https://clementinecttn.github.io/SimSocFest2026/SimSocFest2026) 
-
+[![](qr_j63fm.png){fig-align="centre" width="500"}](https://clementinecttn.github.io/SimSocFest2026/SimSocFest2026_Cottineau)
